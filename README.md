@@ -9,3 +9,6 @@ https://mz-moonzoo.tistory.com/85
 
 ### KBLAM 논문 리뷰
 https://mz-moonzoo.tistory.com/87
+
+### LLM 출력 형식 (JSON)
+https://mz-moonzoo.tistory.com/89
