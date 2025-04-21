@@ -12,3 +12,6 @@ https://mz-moonzoo.tistory.com/87
 
 ### LLM 출력 형식 (JSON)
 https://mz-moonzoo.tistory.com/89
+
+### PDF 표 추출 시 선 인식 문제 해결 방법 예시
+https://mz-moonzoo.tistory.com/91
