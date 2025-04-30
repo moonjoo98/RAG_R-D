@@ -17,7 +17,7 @@ https://mz-moonzoo.tistory.com/89
 https://mz-moonzoo.tistory.com/91
 
 ### Vector RAG vs Graph RAG 비교
-https://mz-moonzoo.tistory.com/93 (개요)\n
+https://mz-moonzoo.tistory.com/93 (개요)<br>
 https://mz-moonzoo.tistory.com/94 (본문)
 
 ### LightRAG 논문 리뷰
